@@ -3,15 +3,8 @@ published: true
 layout: post
 title: segundo post
 author: caio
-tags: 
-  - Tumblr
-  - Jekyll
-  - tutorial
+tags: opa
 ---
-
-
-
-
 
 ## NOVO POST
 
