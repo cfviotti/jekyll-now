@@ -2,12 +2,13 @@
 published: true
 layout: post
 title: segundo post
-author: Caio
+author: caio
 tags: 
   - Tumblr
   - Jekyll
   - tutorial
 ---
+
 
 
 
